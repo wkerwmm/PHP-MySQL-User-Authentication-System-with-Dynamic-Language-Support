@@ -14,5 +14,8 @@ This is a simple user authentication system built with PHP, MySQL, and UIkit.
 2. Configure database settings in `system/config.php`.
 3. Run the project on a local server.
 
+## Producer and Warnings
+- Sistemi bizzat ben kendim yapmış bulunmaktayım, eğer PHP ile geniş kapsamlı bir proje yapacak olursanız altyapıyı kullanabilirsiniz, birkaç hata olabilir çünkü çok hızlı yaptım.
+
 ## License
 MIT License
